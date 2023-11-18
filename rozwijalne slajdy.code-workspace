@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../07. Rozwijane slajdy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "rozwijalne slajdy"
+	}
+}
